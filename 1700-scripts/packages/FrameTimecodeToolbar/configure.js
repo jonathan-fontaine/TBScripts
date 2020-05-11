@@ -11,16 +11,18 @@ function configure(packageFolder, packageName) {
         floatable : true,
         
       });
-
+/*
     customToolToolbar.addButton({
           text: "Frame timecode Toolbar button",
           icon: "showTimecode.png",
           checkable: false,
           action: "frameToolBar in ./FrameToolBar.js",
         });
-      ScriptManager.addToolbar(customToolToolbar);
-
-
+        */
+      ScriptManager.addToolbar(customToolToolbar);    
+      //MessageLog.trace("frame toolbar loaded");
+      require("./FrameToolBar.js").frameToolBar();
+      
 }
 
 

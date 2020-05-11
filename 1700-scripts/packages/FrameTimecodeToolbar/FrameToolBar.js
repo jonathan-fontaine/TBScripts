@@ -64,10 +64,12 @@ function frameToolBar(){
               frameLabel.text = "  Fr "+frame.current();
               timeCodeLabel.text = "   "+getTimecode(frame.current())+"  ";
            });
-           
+ 
+      
            
       //toolbarHolder.addToolBar(toolbar);
-    //MessageLog.trace(toolbarHolder);
 
   
 }
+
+exports.frameToolBar = frameToolBar;
