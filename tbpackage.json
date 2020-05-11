@@ -5,7 +5,7 @@
   "description": "This Script add a toolbar that will allow to show a bigger current frame number along with the current Timecode",
   "isPackage": "true",
   "files": [
-    "1700-scipts/packages/FrameTimecodeToolbar/"
+    "1700-scripts/packages/FrameTimecodeToolbar/"
   ],
   "repository": "https://github.com/jonathan-fontaine/TBScripts/",
   "keywords": [
