@@ -1,19 +1,27 @@
-[{
-  "name": "FrameTimecodeToolbar",
-  "version": "0.1.0",
-  "compatibility": "Harmony Premium 17",
-  "description": "This Script add a toolbar that will allow to show a bigger current frame number along with the current Timecode",
-  "isPackage": "true",
-  "files": [
-    "1700-scripts/packages/FrameTimecodeToolbar/"
-  ],
-  "repository": "https://github.com/jonathan-fontaine/TBScripts/",
-  "keywords": [
-    "toolbar",
-    "timecode",
-    "package"
-  ],
-  "author": "Jonathan Fontaine",
-  "license": "MIT",
-  "website": "https://github.com/jonathan-fontaine/TBScripts/"
-}]
+{
+  "name" : "Chenap",
+  "website" : "https://github.com/jonathan-fontaine/TBScripts/",
+  "social" : "",
+  "repository" : "https://github.com/jonathan-fontaine/TBScripts/",
+  "extensions" : [
+    {
+      "name": "FrameTimecodeToolbar",
+      "version": "0.1.0",
+      "compatibility": "Harmony Premium 17",
+      "description": "This Script add a toolbar that will allow to show a bigger current frame number along with the current Timecode",
+      "isPackage": "true",
+      "files": [
+        "1700-scripts/packages/FrameTimecodeToolbar/"
+      ],
+      "repository": "https://github.com/jonathan-fontaine/TBScripts/",
+      "keywords": [
+        "toolbar",
+        "timecode",
+        "package"
+      ],
+      "author": "Jonathan Fontaine",
+      "license": "MIT",
+      "website": "https://github.com/jonathan-fontaine/TBScripts/"
+    }
+  ]
+}
