@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ellipse_fill.png</file>
+    <file>ellipse_mode1.png</file>
+    <file>ellipse_mode2.png</file>
+    <file>ellipse_toolICon.png</file>
+  </qresource>
+</RCC>
