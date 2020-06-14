@@ -26,9 +26,9 @@
   },
   {
    "name": "Fast Ellipse",
-   "version": "1.0.0",
-   "compatibility": "Harmony Premium 16",
-   "description": "<p>a tool to create faster ellipses</p>",
+   "version": "0.0.1",
+   "compatibility": "Harmony Premium 17",
+   "description": "A tool to create faster ellipse",
    "repository": "https://github.com/jonathan-fontaine/TBScripts/",
    "isPackage": true,
    "files": [
@@ -39,7 +39,7 @@
     "circle"
    ],
    "author": "",
-   "license": "",
+   "license": "MIT",
    "website": "https://github.com/jonathan-fontaine/TBScripts/",
    "localFiles": ""
   }
