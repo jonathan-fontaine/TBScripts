@@ -8,7 +8,7 @@
    "name": "FrameTimecodeToolbar",
    "version": "0.1.0",
    "compatibility": "Harmony Premium 17",
-   "description": "<img src='http://www.11secondclub.com/thumbs/169/ilLwAV-sm.jpg'/> <p>This Script add a toolbar that will allow to show a bigger current frame number along with the current Timecode</p> ",
+   "description": "<img src='http://www.cnrs.fr/sites/default/files/styles/thumbnail/public/label/HRS4R_blog.png'/> <p>This Script add a toolbar that will allow to show a bigger current frame number along with the current Timecode</p> ",
    "repository": "https://github.com/jonathan-fontaine/TBScripts/",
    "isPackage": "true",
    "files": [
